@@ -1,0 +1,11 @@
+Filme: Falcon; Sala: 4; Horario: 14:00
+Filme: Falcon; Sala: 6; Horario: 11:30
+Filme: Pokemon; Sala: 6; Horario: 16:00
+Filme: Pokemon; Sala: 7; Horario: 11:30
+Filme: Por Água Abaixo; Sala: 2; Horario: 20:30
+Filme: Touro Ferdinando; Sala: 5; Horario: 11:30
+Filme: Falcon; Sala: 7; Horario: 16:00
+Filme: Argemiro a Freira; Sala: 7; Horario: 20:30
+
+
+

@@ -1,0 +1,16 @@
+1- Instale a biblioteca: NumPy no prompt: (pip install numpy)
+2- Rode o programa a partir de cinema.py
+
+Observações:
+
+- Ao cadastrar um funcionário novo, seu login não funcionará de primeira pelo original frame não conseguir
+ser importado para a tela de cadastro
+
+resolução: reinicie o programa 
+
+- Ao vender as poltronas aparecerá um erro no console que o dicionário mudou de tamanho durante a execução,
+esse erro é esperado e não afetará o programa.
+
+Justificativa: durante o desenvolvimento se o vendedor fizesse mais de uma venda para o mesmo filme o programa
+exibia um erro dizendo que a venda anterior já tinha sido feita, porque a venda anterior ficava registrada em um dicionário, a solução foi limpa-lo após cada venda ser completada.
+

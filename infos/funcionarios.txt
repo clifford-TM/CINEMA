@@ -1,0 +1,4 @@
+gestor: gestor; senha_gestor: gestor
+atendente: atendente; senha_atendente: atendente
+atendente: Carlos; senha_atendente: carlaoo
+gestor: Vinicius; senha_gestor: vini

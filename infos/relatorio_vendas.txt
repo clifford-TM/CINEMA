@@ -1,0 +1,45 @@
+Filme: Pokemon - 11:30, Sala: 7, Cadeira: E5 | Tipo de Ingresso: Meia
+Filme: Pokemon - 11:30, Sala: 7, Cadeira: D5 | Tipo de Ingresso: Meia
+Filme: Pokemon - 11:30, Sala: 7, Cadeira: D4 | Tipo de Ingresso: Meia
+Filme: Pokemon - 11:30, Sala: 7, Cadeira: H5 | Tipo de Ingresso: Meia
+Filme: Pokemon - 11:30, Sala: 7, Cadeira: H4 | Tipo de Ingresso: Meia
+Filme: Pokemon - 11:30, Sala: 7, Cadeira: B5 | Tipo de Ingresso: Inteira
+Filme: Pokemon - 11:30, Sala: 7, Cadeira: A5 | Tipo de Ingresso: Inteira
+Filme: Falcon - 16:00, Sala: 7, Cadeira: D3 | Tipo de Ingresso: Inteira
+Filme: Falcon - 16:00, Sala: 7, Cadeira: E3 | Tipo de Ingresso: Inteira
+Filme: Falcon - 16:00, Sala: 7, Cadeira: F3 | Tipo de Ingresso: Inteira
+Filme: Falcon - 16:00, Sala: 7, Cadeira: H2 | Tipo de Ingresso: Meia
+Filme: Falcon - 16:00, Sala: 7, Cadeira: I2 | Tipo de Ingresso: Meia
+Filme: Pokemon - 11:30, Sala: 7, Cadeira: F2 | Tipo de Ingresso: Meia
+Filme: Pokemon - 11:30, Sala: 7, Cadeira: G2 | Tipo de Ingresso: Meia
+Filme: Pokemon - 11:30, Sala: 7, Cadeira: H2 | Tipo de Ingresso: Meia
+Filme: Pokemon - 11:30, Sala: 7, Cadeira: I2 | Tipo de Ingresso: Meia
+Filme: Falcon - 14:00, Sala: 4, Cadeira: E3 | Tipo de Ingresso: Inteira
+Filme: Falcon - 14:00, Sala: 4, Cadeira: D3 | Tipo de Ingresso: Inteira
+Filme: Falcon - 14:00, Sala: 4, Cadeira: F3 | Tipo de Ingresso: Inteira
+Filme: Falcon - 14:00, Sala: 4, Cadeira: I4 | Tipo de Ingresso: Inteira
+Filme: Falcon - 14:00, Sala: 4, Cadeira: J4 | Tipo de Ingresso: Inteira
+Filme: Pokemon - 16:00, Sala: 6, Cadeira: E5 | Tipo de Ingresso: Inteira
+Filme: Pokemon - 16:00, Sala: 6, Cadeira: E4 | Tipo de Ingresso: Inteira
+Filme: Pokemon - 16:00, Sala: 6, Cadeira: E3 | Tipo de Ingresso: Inteira
+Filme: Pokemon - 16:00, Sala: 6, Cadeira: G2 | Tipo de Ingresso: Meia
+Filme: Pokemon - 16:00, Sala: 6, Cadeira: F2 | Tipo de Ingresso: Meia
+Filme: Pokemon - 16:00, Sala: 6, Cadeira: F1 | Tipo de Ingresso: Meia
+Filme: Argemiro a Freira - 20:30, Sala: 7, Cadeira: E3 | Tipo de Ingresso: Inteira
+Filme: Argemiro a Freira - 20:30, Sala: 7, Cadeira: F3 | Tipo de Ingresso: Inteira
+Filme: Argemiro a Freira - 20:30, Sala: 7, Cadeira: G3 | Tipo de Ingresso: Inteira
+Filme: Touro Ferdinando - 11:30, Sala: 5, Cadeira: C3 | Tipo de Ingresso: Meia
+Filme: Touro Ferdinando - 11:30, Sala: 5, Cadeira: D3 | Tipo de Ingresso: Meia
+Filme: Touro Ferdinando - 11:30, Sala: 5, Cadeira: E3 | Tipo de Ingresso: Meia
+Filme: Touro Ferdinando - 11:30, Sala: 5, Cadeira: H4 | Tipo de Ingresso: Meia
+Filme: Touro Ferdinando - 11:30, Sala: 5, Cadeira: H3 | Tipo de Ingresso: Meia
+Filme: Touro Ferdinando - 11:30, Sala: 5, Cadeira: H2 | Tipo de Ingresso: Meia
+Filme: Pokemon - 11:30, Sala: 7, Cadeira: J5 | Tipo de Ingresso: Inteira
+Filme: Pokemon - 11:30, Sala: 7, Cadeira: J4 | Tipo de Ingresso: Inteira
+Filme: Por Água Abaixo - 20:30, Sala: 2, Cadeira: D3 | Tipo de Ingresso: Meia
+Filme: Por Água Abaixo - 20:30, Sala: 2, Cadeira: E3 | Tipo de Ingresso: Meia
+Filme: Por Água Abaixo - 20:30, Sala: 2, Cadeira: F3 | Tipo de Ingresso: Meia
+Filme: Por Água Abaixo - 20:30, Sala: 2, Cadeira: G3 | Tipo de Ingresso: Meia
+Filme: Por Água Abaixo - 20:30, Sala: 2, Cadeira: A3 | Tipo de Ingresso: Inteira
+Filme: Por Água Abaixo - 20:30, Sala: 2, Cadeira: B1 | Tipo de Ingresso: Inteira
+Filme: Por Água Abaixo - 20:30, Sala: 2, Cadeira: J4 | Tipo de Ingresso: Inteira
